@@ -99,7 +99,7 @@ Semicolon-Digital-Verification-Workshop-Session-3/
 - Coverage report generation and 100% coverage validation
 - Create Do File 
 
-📘 *Reference:* [`Assignment/Assignment 3.pdf`](Assignment/Assignment%203.pdf)  
+📘 *Assignment:* [`Assignment/Assignment 3.pdf`](Assignment/Assignment%203.pdf)  
 💡 *Solution Example:* [`Assignment/Coverage Solution/Coverage_Solution.sv`](Assignment/Coverage%20Solution/Coverage_Solution.sv)
 
 ---
