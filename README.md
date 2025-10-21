@@ -106,7 +106,7 @@ Semicolon-Digital-Verification-Workshop-Session-3/
 
 ## 🧰 Tools & Technologies
 - **SystemVerilog (IEEE 1800-2017)**
-- **Mentor QuestaSim / ModelSim**
+- **Mentor QuestaSim**
 - **Functional & Code Coverage**
 - **TCL / DO File Automation**
 - **EDA Simulation Flow**
