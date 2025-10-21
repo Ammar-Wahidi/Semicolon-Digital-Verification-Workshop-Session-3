@@ -4,8 +4,7 @@
 <!--                SESSION 3 — INSTRUCTOR: AMMAR WAHIDI        -->
 <!-- ========================================================= -->
 
-# Semicolon Digital Verification Workshop — Session 3
-**Instructor:** Ammar Wahidi  
+# Semicolon Digital Verification Workshop — Session 3 
 **Organization:** Semicolon   
 **Workshop Year:** 2025  
 **Focus:** *SystemVerilog Functional Verification — Advanced Concepts*
