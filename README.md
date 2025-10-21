@@ -124,7 +124,7 @@ By completing Session 3, participants were able to:
 ---
 
 ## 🤝 Connect & Collaborate
-📍 **Instructor:** *Ammar Wahidi*  
+📍 **Created by:** *Ammar Wahidi*  
 🔗 **LinkedIn:** [linkedin.com/in/Ammar-Wahidi](https://www.linkedin.com/in/ammar-wahidi-4292a7309/)  
 💻 **GitHub:** [github.com/Ammar-Wahidi](https://github.com/Ammar-Wahidi)
 
