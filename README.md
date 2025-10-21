@@ -6,7 +6,7 @@
 
 # Semicolon Digital Verification Workshop — Session 3 
 **Organization:** Semicolon   
-**Workshop Year:** 2025  
+**Workshop Date:** September, 2025  
 **Focus:** *SystemVerilog Functional Verification — Advanced Concepts*
 
 ---
