@@ -124,8 +124,12 @@ By completing Session 3, participants were able to:
 
 ## 🤝 Connect & Collaborate
 📍 **Created by:** *Ammar Wahidi*  
-🔗 **LinkedIn:** [linkedin.com/in/Ammar-Wahidi](https://www.linkedin.com/in/ammar-wahidi-4292a7309/)  
+🔗 **LinkedIn:** [linkedin.com/in/Ammar Wahidi](https://www.linkedin.com/in/ammar-wahidi-4292a7309/)  
 💻 **GitHub:** [github.com/Ammar-Wahidi](https://github.com/Ammar-Wahidi)
+
+📍 **Created by:** *Rana Ayman*  
+🔗 **LinkedIn:** [linkedin.com/in/Rana Ayman](https://www.linkedin.com/in/rana-ayman-817128239/)  
+💻 **GitHub:** [github.com/RanaAyman54](https://github.com/RanaAyman54)
 
 ---
 
